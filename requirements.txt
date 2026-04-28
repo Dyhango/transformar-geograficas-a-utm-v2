@@ -2,4 +2,3 @@ streamlit
 geopandas
 pyproj
 shapely
-fiona>=1.9.0,<2.0
